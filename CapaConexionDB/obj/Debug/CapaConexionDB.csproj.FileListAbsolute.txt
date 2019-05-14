@@ -1,0 +1,6 @@
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\bin\Debug\CapaConexionDB.dll
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\bin\Debug\CapaConexionDB.pdb
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\obj\Debug\CapaConexionDB.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\obj\Debug\CapaConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\obj\Debug\CapaConexionDB.dll
+C:\Users\Mauricio\source\repos\Prueba5Capas\CapaConexionDB\obj\Debug\CapaConexionDB.pdb
